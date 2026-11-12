@@ -37,3 +37,9 @@ pnpm-debug.log*
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Documents, presentations, and extractions
+*.pdf
+*.pptx
+*.ppt
+output/
